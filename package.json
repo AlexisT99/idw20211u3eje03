@@ -4,8 +4,8 @@
   "description": "Numero a letra",
   "main": "index.js",
   "dependencies": {
-    "numalet": "^0.2.1",
-    "number-to-words": "^1.2.4"
+    "numalet": "0.2.1",
+    "number-to-words": "1.2.4"
   },
   "devDependencies": {},
   "scripts": {
